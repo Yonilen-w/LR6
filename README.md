@@ -36,3 +36,10 @@ git clone https://github.com/Yonilen-w/LR6.git
 
 git pull origin master
 
+8385204 2025-11-15 4441в Давыдов Р.В.: Создана основа отчета с пунктами 1-6
+ae76084 2025-11-15 4441в Давыдов Р.В.: Изменения в ветке master
+e5c7bfa 2025-11-15 Yonilen-w: Create github_file.txt
+921f53b 2020-11-21 Kurtyanik: Обновление информации
+c08a654 2020-11-21 Kurtyanik: Файл создан пустым
+3c6e913 2020-11-21 Kurtyanik: Initial commit
+
